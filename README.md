@@ -1,2 +1,2 @@
 # MoonBrowser
-tHe BeSt mObILe BroWser EveR 100%
+tHe BeSt mObILe BroWser EveR
