@@ -1,2 +1,2 @@
 # MoonBrowser
-tHe BeSt mObILe BroWser EveR
+old abandoned android browser which main feature was easy acess to news...
